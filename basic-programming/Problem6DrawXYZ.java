@@ -7,6 +7,7 @@ public class Problem6DrawXYZ {
         System.out.print("Input: ");
         n = input.nextInt();
 
+        System.out.println("Output:");
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
                 angka++;
